@@ -1,0 +1,40 @@
+.retangle01{
+    position: absolute;
+    width: 429px;
+    height: 505px;
+
+    background: linear-gradient(180deg, #27A4DA 0%, rgba(39, 164, 218, 0.4) 100%);
+    border: 1px solid #27A4DA;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+h1{
+    position: absolute;
+    width: 267px;
+    height: 26px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #FFFEFE;
+}
+h2{
+    position: absolute;
+    width: 358px;
+    height: 51px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #FFF8F8;
+}
